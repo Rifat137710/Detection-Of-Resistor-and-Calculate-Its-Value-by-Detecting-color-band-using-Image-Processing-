@@ -5,8 +5,6 @@
 **Section:** C1 | **Group:** 06
 **Full report:** [`EEE312_Project_Report_Group_06.pdf`](EEE312_Project_Report_Group_06.pdf)
 
-> *Note: the running header inside the report reads "EEE306 Project Report Group 3" — a leftover
-> from the document template. The cover page and filename (EEE 312, Group 6) are correct.*
 
 ---
 
